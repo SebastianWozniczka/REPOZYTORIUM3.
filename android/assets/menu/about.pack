@@ -1,0 +1,19 @@
+
+about.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+about1
+  rotate: false
+  xy: 1, 1
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+about2
+  rotate: false
+  xy: 203, 1
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+
+przycisk_snu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+przycisk_snu
+  rotate: false
+  xy: 1, 1
+  size: 696, 564
+  orig: 696, 564
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+
+player_ruch.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player_ruch
+  rotate: false
+  xy: 1, 1
+  size: 384, 128
+  orig: 384, 128
+  offset: 0, 0
+  index: -1

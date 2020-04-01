@@ -1,0 +1,12 @@
+
+grzesiu_krzyk.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grzesiu_krzyk
+  rotate: false
+  xy: 1, 1
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+
+player_atak1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player_atak
+  rotate: false
+  xy: 1, 1
+  size: 640, 128
+  orig: 640, 128
+  offset: 0, 0
+  index: -1
